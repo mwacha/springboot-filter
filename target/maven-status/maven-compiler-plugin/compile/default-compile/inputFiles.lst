@@ -1,5 +1,0 @@
-/home/marcelo/code/springboot-filter/src/main/java/tk/mwacha/http/UserController.java
-/home/marcelo/code/springboot-filter/src/main/java/tk/mwacha/config/FilterConfig.java
-/home/marcelo/code/springboot-filter/src/main/java/tk/mwacha/http/dto/User.java
-/home/marcelo/code/springboot-filter/src/main/java/tk/mwacha/http/filters/TransactionFilter.java
-/home/marcelo/code/springboot-filter/src/main/java/tk/mwacha/http/filters/RequestResponseLoggingFilter.java
