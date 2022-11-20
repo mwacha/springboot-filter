@@ -13,7 +13,7 @@ public class FilterConfig {
         registrationBean.setFilter(new RequestLoggingFilter());
 
         registrationBean.addUrlPatterns("/users/*");
-        registrationBean.setOrder(2);
+        registrationBean.setOrder(1);
 
         return registrationBean;
     }
